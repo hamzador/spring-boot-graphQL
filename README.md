@@ -1,4 +1,7 @@
 # spring-boot-graphQL
+# server Url in local:
+   server.port=8000
+   http://localhost:8000/graphiql
 # get All product
 				query{
 				productList{
